@@ -21,11 +21,13 @@ Install dependencies using npm or yarn:
 npm install
 # or
 yarn install
+
 Start the development server:
 
 npm start
 # or
 yarn start
+
 Open your browser and visit http://localhost:3000 to view the application.
 Dependencies
 Habit Tracker utilizes the following dependencies:

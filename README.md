@@ -16,17 +16,17 @@ Navigate to the project directory:
 
 
 cd habit-tracker
-Install dependencies using npm or yarn:
+# Install dependencies using npm or yarn:
 
-npm install
-# or
+npm install 
+or
 yarn install
 
-Start the development server:
+# Start the development server:
 
+yarn start 
+or
 npm start
-# or
-yarn start
 
 Open your browser and visit http://localhost:3000 to view the application.
 Dependencies
